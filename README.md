@@ -1,16 +1,10 @@
 # flutter_api_praktikum
 
-A new Flutter project.
+Pemrograman Mobile Bab 7 Flutter - API - Praktikum
 
-## Getting Started
+## Tampilan Program
+<p align="center">
+<img src="https://github.com/onynovianti/flutter_api_praktikum/blob/a19d5ea5d7e9f71ac16d5d4435964089cc4e4f1a/assets/record.gif" width="300" />
+</p>
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
